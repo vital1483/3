@@ -1,10 +1,0 @@
-
-V
-java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8²ñÂÎõ.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒÆóÖşÿÿÿÿ
-Q
-java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8²ñÂÎõ.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8¤˜¾Ïõ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8¤˜¾Ïõ.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8¤˜¾Ïõ.
